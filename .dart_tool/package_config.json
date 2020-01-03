@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_ymdarake",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    }
+  ],
+  "generated": "2020-01-03T22:02:29.520433Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.0-dev.0.0"
+}
