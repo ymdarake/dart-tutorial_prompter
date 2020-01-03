@@ -1,5 +1,4 @@
-import 'package:prompter_ymdarake/src/prompter.dart';
-import 'package:prompter_ymdarake/src/option.dart';
+import 'package:prompter_ymdarake/prompter_ymdarake.dart';
 
 void main() {
   final options = [
